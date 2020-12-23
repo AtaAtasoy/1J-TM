@@ -26,9 +26,19 @@ Terra Mystica takes place over 6 rounds, each consisting of 3 phases.</br>
 **The round continues with Phase 2: "The Action Phase"**, where players each do one action each from the available 8 choices, which consist of building dwellings on unoccupied terrain, facilitate building, upgrade structures, cult scoring, power actions, special actions, passing and starting player. The Action Phase continues until every single players refuses to make any move. </br>
 **Then, the round ends with Phase 3: "Cult Bonuses and Clean-Up Phase"**, where each player earns the Cult bonuses. Then the round ends. 
 
+### FINAL UPDATE </br>
+The game remains unfinished, due to the limited amount of time we had as a group. Current demo supports Creating a game and executing "Terraform and Build" action for each player. The GUI needs a rework and re-design since there weren't enough time to work on the CSS and do design graphics. 
+
+### To run
+Clone the repo. </br>
+```bash
+$ cd tmDesktop 
+$ gradle build
+$ gradle run
+```
 _________________________________________________________________________________________________
 
-### Extra feature(s) for the game: </br>
+### Extra feature(s) for the game: (Not implemented)</br>
 
 **1- Victory map expansion.** Each player will earn certain amount of income bonuses, when the player will reach to certain amount of victory points. 
 
